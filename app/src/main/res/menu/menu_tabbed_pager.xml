@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".TabbedPagerActivity">
+      <item
+          android:id="@+id/menu_item_new_crime"
+          android:title="@string/new_tieredlist"
+          android:icon="@drawable/ic_menu_add"
+          app:showAsAction="always"/>
+</menu>
